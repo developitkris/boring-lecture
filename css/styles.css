@@ -9,7 +9,7 @@ body{
   font-size: 40px;
 }
 
-.intro {
+div.intro {
   color: #4c062c;
   font-style: italic;
 }
